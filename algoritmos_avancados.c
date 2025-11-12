@@ -3,12 +3,6 @@
 #include <string.h>
 #include <time.h>
 
-// ======================================================
-// 🕵️ DESAFIO DETECTIVE QUEST
-// Tema 4 - Árvores e Tabela Hash
-// Versão simples para iniciantes
-// ======================================================
-
 // -------------------- ESTRUTURAS --------------------
 
 // Estrutura da árvore binária de salas
